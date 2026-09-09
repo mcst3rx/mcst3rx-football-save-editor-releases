@@ -4,7 +4,7 @@
 
 The **MCST3RX Football Save Editor** is a free community-built Windows tool for inspecting and editing supported football game saves through a safety-focused, modern interface.
 
-> **Current Release:** v1.2.0  
+> **Current Release:** v1.2.1
 > **Supported Families:** Madden NFL 19–27 and College Football 27  
 > **Platform:** Windows
 
