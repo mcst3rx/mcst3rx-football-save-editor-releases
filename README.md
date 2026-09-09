@@ -134,16 +134,21 @@ Previous versions remain documented through GitHub Releases.
 
 ---
 
-## 🐛 Report a Bug
+## 💬 Bug Reports & Feature Requests
 
-Found a problem with the MCST3RX Football Save Editor?
+Found a problem with the MCST3RX Football Save Editor or have an idea for an improvement?
 
-➡️ **Report a Bug:**  
+➡️ **Submit an Issue:**  
 https://github.com/mcst3rx/mcst3rx-football-save-editor-releases/issues/new/choose
 
-Please use the provided **Bug Report** template so the issue includes the information needed to investigate the problem.
+Choose the appropriate template:
 
-Before submitting:
+- 🐛 **Bug Report** — Report a problem or something that is not working as expected.
+- 💡 **Feature Request** — Suggest a new feature, improvement, or workflow.
+
+### 🐛 Reporting a Bug
+
+Before submitting a bug report:
 
 - Make sure you are using the latest official release.
 - Check existing issues to see whether the problem has already been reported.
@@ -157,6 +162,21 @@ Before submitting:
 Please do not publicly upload private or sensitive files.
 
 If a save file is eventually required for investigation, wait until MCST3RX specifically requests one and follow the provided instructions.
+
+### 💡 Requesting a Feature
+
+Before submitting a feature request:
+
+- Check existing issues to see whether the idea has already been suggested.
+- Include your editor version.
+- Select the affected game or save mode.
+- Clearly describe the feature or improvement you would like.
+- Explain why the feature would be useful.
+- Describe how you imagine it working.
+- Include screenshots, mockups, examples, or references when helpful.
+- Submit one feature request per issue so each idea can be reviewed separately.
+
+Feature requests are suggestions and are not guaranteed to be implemented.
 
 ---
 
